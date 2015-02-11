@@ -1,0 +1,182 @@
+[17-Aug-2014 05:18:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186
+[24-Aug-2014 05:18:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186
+[31-Aug-2014 05:18:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186
+[07-Sep-2014 05:18:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186
+[14-Sep-2014 05:18:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186
+[21-Sep-2014 05:18:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186
+[28-Sep-2014 05:18:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186
+[05-Oct-2014 05:18:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186
+[12-Oct-2014 05:18:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186
+[19-Oct-2014 05:18:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186
+[26-Oct-2014 05:18:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186
+[02-Nov-2014 05:18:01 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186
+[09-Nov-2014 05:18:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186
+[16-Nov-2014 05:18:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186
+[23-Nov-2014 05:18:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186
+[30-Nov-2014 05:18:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186
+[07-Dec-2014 05:18:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186
+[14-Dec-2014 05:18:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186
+[21-Dec-2014 05:18:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186
+[28-Dec-2014 05:18:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186
+[04-Jan-2015 05:18:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186
+[11-Jan-2015 05:18:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186
+[18-Jan-2015 05:18:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186
+[25-Jan-2015 05:18:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186
+[01-Feb-2015 05:18:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186
+[08-Feb-2015 05:18:02 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'Login unsuccessful.' in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php:186
+Stack trace:
+#0 /home/remediho/public_html/blackthorne/backup/DropboxUploader.php(117): DropboxUploader->login()
+#1 /home/remediho/public_html/blackthorne/backup/backupdb.php(12): DropboxUploader->upload('remediho_blackt...', 'Backups')
+#2 /home/remediho/public_html/blackthorne/backup/backupdb.php(16): TransferDB('remediho_blackt...')
+#3 {main}
+  thrown in /home/remediho/public_html/blackthorne/backup/DropboxUploader.php on line 186

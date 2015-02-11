@@ -1,0 +1,76 @@
+.admin-left {
+  float: left;
+  width: 35%;
+  padding-bottom: 2em;
+}
+
+.admin-right {
+  float: right;
+  width: 55%;
+}
+
+.admin-edit {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.admin-edit .admin-left,
+.admin-edit .admin-right {
+  width: 48%;
+  padding-bottom: 0;
+}
+
+.admin-left INPUT, .admin-right INPUT,
+.admin-left TEXTAREA, .admin-right TEXTAREA {
+  width: 100%;
+}
+
+.controls, .info { 
+  float: left; 
+} 
+  
+.c1 .controls { width: 6%; } 
+.c2 .controls { width: 12%; } 
+.c3 .controls { width: 15%; } 
+  
+.controls IMG { 
+  vertical-align: middle; 
+  margin: 0 0.12em; 
+  height: 1em; 
+  width: auto; 
+}
+
+.c1 .info { width: 94%; } 
+.c2 .info { width: 88%; } 
+.c3 .info { width: 85%; } 
+
+
+
+
+@media only screen and (max-width: 800px) {
+  .admin-edit {
+    width: 100%;
+  }
+
+  .admin-left INPUT, .admin-right INPUT {
+    width: 90%;
+    font-size: 90%;
+  }
+
+  .admin-left TEXTAREA, .admin-right TEXTAREA {
+    width: 92%;
+    font-size: 90%;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .admin-left, .admin-right,
+  .admin-edit .admin-left, .admin-edit .admin-right {
+    float: none;
+    width: 100%;
+  }
+
+  .admin-left TEXTAREA, .admin-right TEXTAREA {
+    width: 95%;
+  }
+}
