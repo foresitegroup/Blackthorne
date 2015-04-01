@@ -26,10 +26,12 @@ function email($address, $name="") {
     <script type="text/javascript" src="inc/bootstrap-collapse.js"></script>
     <script type="text/javascript" src="inc/jquery.cycle2.min.js"></script>
     <script type="text/javascript" src="inc/jquery.cycle2.caption2.min.js"></script>
+    <script type="text/javascript" src="inc/jquery.cycle2.carousel.min.js"></script>
     <script type="text/javascript">
       $(document).ready(function() {
         $("a[href^='http'], a[href$='.pdf']").not("[href*='" + window.location.host + "']").attr('target','_blank');
         $("LI:has(UL)").css("z-index", "999");
+        $(".footer-slide").cycle();
       });
     </script>
     

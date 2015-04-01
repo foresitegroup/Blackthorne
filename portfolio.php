@@ -13,6 +13,16 @@ We are currently invested in the following businesses.<br>
 <br>
 
 <div class="port-img">
+  <a href="http://www.glassfireplacedoors.com"><img src="images/portfolio-design-specialties.png" alt="Design Specialties"></a>
+</div>
+<div class="port-text">
+  <strong>Design Specialties, LLC</strong> is a Milwaukee manufacturer of fireplace doors, screens and other hearth accessories sold at specialty hearth retailers throughout the U.S. and Canada. Founded in 1983, the company has become a market leader with a strong, established dealer base. Blackthorne Partners purchased the assets of Design Specialties in March 2015.<br>
+  Visit the Design Specialties website: <a href="http://www.glassfireplacedoors.com">www.glassfireplacedoors.com</a>
+</div>
+<div style="clear: both;"></div><br>
+<br>
+
+<div class="port-img">
   <a href="http://www.hughesequipment.com"><img src="images/portfolio-hughes.jpg" alt="Hughes Equipment Company"></a>
 </div>
 <div class="port-text">
