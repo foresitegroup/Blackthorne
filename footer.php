@@ -14,13 +14,17 @@
     <div id="logos">
       <article>
         <a href="portfolio.php">
-          <div class="footer-slide" data-cycle-fx="carousel" data-cycle-timeout="3000">
-            <img src="images/logo-hughes.png" alt="Hughes Equipment Company">
-            <img src="images/logo-design-specialties.png" alt="Design Specialties">
-            <img src="images/logo-group-basis.png" alt="group:basis">
-            <img src="images/logo-berlon.png" alt="Berlon Industries">
-            <img src="images/logo-pallet-usa.png" alt="Pallet USA">
-            <img src="images/logo-integrated.png" alt="Integrated Medical Partners">
+          <div class="footer-slide" data-cycle-timeout="3000" data-cycle-slides="> div" data-cycle-fx="scrollHorz">
+            <div>
+              <img src="images/logo-hughes.png" alt="Hughes Equipment Company">
+              <img src="images/logo-design-specialties.png" alt="Design Specialties">
+              <img src="images/logo-group-basis.png" alt="group:basis">
+            </div>
+            <div>
+              <img src="images/logo-berlon.png" alt="Berlon Industries">
+              <img src="images/logo-pallet-usa.png" alt="Pallet USA">
+              <img src="images/logo-integrated.png" alt="Integrated Medical Partners">
+            </div>
           </div>
         </a>
       </article>

@@ -253,9 +253,14 @@ ARTICLE {
   height: 113px;
 }
 
+#logos ARTICLE DIV DIV {
+  width: 100%;
+  text-align: center;
+}
+
 #logos ARTICLE IMG {
   vertical-align: middle;
-  margin-right: 50px;
+  margin: 0 8%;
 }
 
 FOOTER {
@@ -382,11 +387,9 @@ FOOTER {
     overflow: hidden;
   }
   
-/*  #logos ARTICLE IMG {
-    width: 12%;
-    height: auto;
-    margin-right: 8%;
-  }*/
+  #logos ARTICLE IMG {
+    margin: 0 5%;
+  }
 }
 
 @media only screen and (max-width: 768px) {
@@ -410,6 +413,10 @@ FOOTER {
 
   #menu UL LI UL LI:first-child {
     padding-left: 0.3em;
+  }
+
+  #logos ARTICLE IMG {
+    margin: 0 4%;
   }
 }
 
@@ -508,10 +515,10 @@ FOOTER {
     line-height: 55px;
   }
 
-  /*#logos ARTICLE IMG {
-    width: 15%;
-    margin-right: 5%;
-  }*/
+  #logos ARTICLE IMG {
+    max-width: 28%;
+    margin: 0 2%;
+  }
 
   #contactform LABEL {
     float: none;
@@ -581,15 +588,11 @@ FOOTER {
     height: 30px;
     line-height: 30px;
   }
-
-  /*#logos ARTICLE {
-    height: 60px;
-    line-height: 60px;
-  }
-
+  
   #logos ARTICLE IMG {
-    margin-right: 3%;
-  }*/
+    max-width: 29%;
+    margin: 0 1%;
+  }
 
   FOOTER {
     font-size: 40%;
