@@ -19,9 +19,9 @@ include "header.php";
   <img src="images/slide-pallet.jpg"
        data-cycle-title="Identifying small niche businesses that go unnoticed by many larger private equity firms"
        >
-  <img src="images/slide3.jpg"
+  <!-- <img src="images/slide3.jpg"
        data-cycle-title="Providing capital and strategic support to help the businesses achieve their full growth potential"
-       >
+       > -->
 </div> <!-- END cycle-slideshow -->
 
 <?php include "footer.php"; ?>

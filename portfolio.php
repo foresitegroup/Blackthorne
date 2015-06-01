@@ -13,6 +13,16 @@ We are currently invested in the following businesses.<br>
 <br>
 
 <div class="port-img">
+  <a href="http://www.schaeferbrush.com"><img src="images/portfolio-schaefer.jpg" alt="Schaefer Brush Manufacturing"></a>
+</div>
+<div class="port-text">
+  <strong>Schaefer Brush Manufacturing, LLC</strong> of Waukesha, WI is one of the most diverse brush manufacturers in the world.  We have over 100 years of experience in developing, engineering and manufacturing products to serve a wide range of industries. Blackthorne Partners purchased the assets of Schaefer Brush in June 2015.<br>
+  Visit the Schaefer Brush website: <a href="http://www.schaeferbrush.com">www.schaeferbrush.com</a>
+</div>
+<div style="clear: both;"></div><br>
+<br>
+
+<div class="port-img">
   <a href="http://www.glassfireplacedoors.com"><img src="images/portfolio-design-specialties.png" alt="Design Specialties"></a>
 </div>
 <div class="port-text">

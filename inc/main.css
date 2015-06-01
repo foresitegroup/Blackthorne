@@ -260,7 +260,21 @@ ARTICLE {
 
 #logos ARTICLE IMG {
   vertical-align: middle;
+  margin: 0 4.8%;
+}
+
+#logos ARTICLE DIV DIV.morespace IMG {
   margin: 0 8%;
+}
+
+#logos ARTICLE IMG:first-child,
+#logos ARTICLE DIV DIV.morespace IMG:first-child {
+  margin-left: 0;
+}
+
+#logos ARTICLE IMG:last-child,
+#logos ARTICLE DIV DIV.morespace IMG:last-child {
+  margin-right: 0;
 }
 
 FOOTER {
@@ -388,7 +402,7 @@ FOOTER {
   }
   
   #logos ARTICLE IMG {
-    margin: 0 5%;
+    margin: 0 1.5%;
   }
 }
 
@@ -416,22 +430,13 @@ FOOTER {
   }
 
   #logos ARTICLE IMG {
-    margin: 0 4%;
+    margin: 0 3.3%;
+    max-width: 21%;
   }
 }
 
 @media only screen and (max-width: 600px) {
   /* Small tablet */
-/*  NAV {
-    width: 250px;
-    float: right;
-    margin-right: 2%;
-  }
-
-  #menu UL {
-    margin: 0.8em 0 0;
-  }*/
-  
   NAV {
     width: auto;
     float: none;
@@ -516,8 +521,7 @@ FOOTER {
   }
 
   #logos ARTICLE IMG {
-    max-width: 28%;
-    margin: 0 2%;
+    margin: 0 2.5%;
   }
 
   #contactform LABEL {
@@ -590,8 +594,7 @@ FOOTER {
   }
   
   #logos ARTICLE IMG {
-    max-width: 29%;
-    margin: 0 1%;
+    margin: 0 1.5%;
   }
 
   FOOTER {
