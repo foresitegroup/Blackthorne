@@ -76,6 +76,7 @@ function email($address, $name="") {
               <ul>
                 <li><a href="our-partners.php">Our Partners</a></li>
                 <li><a href="biographies.php">Biographies</a></li>
+                <li><a href="testimonials.php">Testimonials</a></li>
               </ul>
             </li>
             <li><a href="portfolio.php">Portfolio</a></li>
