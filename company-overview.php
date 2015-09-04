@@ -4,7 +4,7 @@ $Banner = "banner-company-overview.jpg";
 include "header.php";
 ?>
 
-<img src="images/company-overview1.jpg" alt="" class="right">
+<img src="images/company-overview2.jpg" alt="" class="right">
 
 <h1>Company Overview</h1>
 <h2>A clear plan, properly executed</h2>
@@ -20,6 +20,12 @@ We accomplish this by:<br>
   <li>Identifying small niche businesses that go unnoticed by many larger private equity firms.</li>
   <li>Ensuring the businesses meet our <a href="investment-strategy.php">investment criteria</a>.</li>
   <li>Providing capital and strategic support to help the businesses achieve their full growth potential.</li>
-</ol>
+</ol><br>
+<br>
+
+<div class="pullquote">
+  "Our family spent 110 years developing and nurturing Schaefer Brush Manufacturing. So when it came time to sell the business, we wanted buyers who would respect that legacy.... Blackthorne Partners offered us just that...."<br>
+  <strong>&mdash; Harold Schaefer, former owner, Schaefer Brush Manufacturing</strong>
+</div>
 
 <?php include "footer.php"; ?>

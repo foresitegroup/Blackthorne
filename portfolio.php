@@ -46,8 +46,7 @@ We are currently invested in the following businesses.<br>
   <a href="http://www.groupbasis.com"><img src="images/portfolio-group-basis.png" alt="group:basis"></a>
 </div>
 <div class="port-text">
-  <strong>group:basis</strong> is an established and profitable IT business that supports SAP products. Blackthorne Partners
-  funded the recapitalization of group:basis in December 2012.<br>
+  <strong>group:basis</strong> is an established and profitable IT business that supports SAP products. Blackthorne Partners funded the recapitalization of group:basis in December 2012. On September 1, 2015,  Blackthorne Partners successfully divested its majority interest in Group Basis, LLC to Tricore Solutions, LLC; an application management expert, providing a full suite of scalable and reliable managed application, cloud, infrastructure hosting, and consulting services to enterprise organizations.<br>
   Visit the group:basis website: <a href="http://www.groupbasis.com">www.groupbasis.com</a>
 </div>
 <div style="clear: both;"></div><br>

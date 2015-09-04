@@ -25,6 +25,12 @@ We screen many opportunities and narrow them to a handful of great companies, re
   <li>Work with the management team to reach predetermined benchmarks. Build the business through organic growth.</li>
   <li>Execute add-on acquisitions, where appropriate.</li>
   <li>Review opportunities to exit the business when the timing is most advantageous.</li>
-</ul>
+</ul><br>
+<br>
+
+<div class="pullquote">
+  "I appreciated their understanding of all facets of the business, which made the entire ownership transition process easy. Dealing with the team at Blackthorne was a pleasure."<br>
+  <strong>&mdash; Pat Gengler, former owner, Design Specialties</strong>
+</div>
 
 <?php include "footer.php"; ?>

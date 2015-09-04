@@ -10,6 +10,9 @@ include "header.php";
      data-cycle-caption-template="{{cycleTitle}}"
      data-cycle-caption-plugin="caption2"
      >
+  <img src="images/slide-design.jpg"
+       data-cycle-title="We consistently yield outstanding results for our companies and investors"
+       >
   <img src="images/slide-hughes.jpg"
        data-cycle-title="Enabling small businesses to produce the highest quality products in the market"
        >
@@ -18,9 +21,6 @@ include "header.php";
        >
   <img src="images/slide-pallet-2015.jpg"
        data-cycle-title="Identifying small niche businesses that go unnoticed by many larger private equity firms"
-       >
-  <img src="images/slide-design.jpg"
-       data-cycle-title="We consistently yield outstanding results for our companies and investor"
        >
   <img src="images/slide-schaefer.jpg"
        data-cycle-title="Providing capital and strategic support to help the businesses achieve their full growth potential"

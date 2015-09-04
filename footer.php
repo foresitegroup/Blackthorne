@@ -15,11 +15,10 @@
       <article>
         <a href="portfolio.php">
           <div class="footer-slide" data-cycle-timeout="3000" data-cycle-slides="> div" data-cycle-fx="scrollHorz">
-            <div>
+            <div class="morespace">
               <img src="images/logo-schaefer.png" alt="Schaefer Brush Manufacturing">
               <img src="images/logo-design-specialties.png" alt="Design Specialties">
               <img src="images/logo-hughes.png" alt="Hughes Equipment Company">
-              <img src="images/logo-group-basis.png" alt="group:basis">
             </div>
             <div class="morespace">
               <img src="images/logo-berlon.png" alt="Berlon Industries">
