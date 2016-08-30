@@ -298,6 +298,11 @@ FOOTER {
   max-width: 40%;
 }
 
+.one-third {
+  float: left;
+  width: 33%;
+}
+
 .bio-icons {
   float: right;
 }
@@ -341,6 +346,13 @@ FOOTER {
 #contactform #submit {
   width: auto;
 }
+
+#map-canvas {
+  width: 100%;
+  height: 500px;
+}
+.gm-style img { max-width: none; }
+.gm-style label { width: auto; display: inline; }
 
 .pullquote {
   width: 96%;
@@ -510,6 +522,9 @@ FOOTER {
     font-size: 100%;
   }
 
+  .one-third { width: 50%; }
+  .one-third:first-child { width: 100%; padding-bottom: 2em; }
+
   #content-wrap-home ARTICLE {
     min-height: 376px;
   }
@@ -634,6 +649,8 @@ FOOTER {
     float: none;
     width: 100%;
   }
+
+  .one-third { width: 100%; padding-bottom: 2em; }
 
   .contact-left {
     padding-bottom: 2em;

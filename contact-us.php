@@ -2,101 +2,91 @@
 $PageTitle = "Contact Us";
 $Banner = "";
 include "header.php";
-
-// Settings for randomizing the field names
-$ip = $_SERVER['REMOTE_ADDR'];
-$timestamp = time();
-$salt = "Remedi";
 ?>
 
-<h1 style="margin-bottom: 0.8em;">Contact Us</h1>
-
-<?php
-if (isset($_POST['submit']) && $_POST['confirmation'] == "") {
-  $SendTo = "john@blackthornepartners.com";
-  $Subject = "Contact From Website";
-  $From = "From: Contact Form <contactform@blackthornepartners.com>\r\n";
-  if ($_POST[md5('email' . $_POST['ip'] . $salt . $_POST['timestamp'])] != "")
-    $From .= "Reply-To: " . $_POST[md5('email' . $_POST['ip'] . $salt . $_POST['timestamp'])] . "\r\n";
-  
-  $Message = "Name: " . $_POST[md5('name' . $_POST['ip'] . $salt . $_POST['timestamp'])];
-  if ($_POST[md5('email' . $_POST['ip'] . $salt . $_POST['timestamp'])] != "")
-    $Message .= "\nEmail: " . $_POST[md5('email' . $_POST['ip'] . $salt . $_POST['timestamp'])];
-  if ($_POST[md5('phone' . $_POST['ip'] . $salt . $_POST['timestamp'])] != "")
-    $Message .= "\nPhone: " . $_POST[md5('phone' . $_POST['ip'] . $salt . $_POST['timestamp'])];
-  $Message .= "\n\nComment / Question\n" . $_POST['comment'] . "\n";
-  
-  mail($SendTo, $Subject, $Message, $From);
-  //echo "<pre>".$Message."</pre>";
-  
-  echo "Thank you for your interest in Blackthorne Partners.<br>You will be contacted soon.";
-} else {
-?>
-
-<div class="contact-left">
+<div class="one-third">
   <strong>Blackthorne Partners</strong><br>
   375 Bishops Way<br>
   Suite 222<br>
-  Brookfield, WI 53005<br>
-  <br>
-  <br>
-  
+  Brookfield, WI 53005
+</div>
+
+<div class="one-third">
   <strong>John Syburg</strong><br>
   Managing Director<br>
   262.786.5100<br>
-  <?php email("john@blackthornepartners.com"); ?><br>
-  <br>
+  <?php email("john@blackthornepartners.com"); ?>
+</div>
 
+<div class="one-third">
   <strong>Steve Balistreri</strong><br>
   Managing Director<br>
   262.786.4700<br>
   <?php email("steve@blackthornepartners.com"); ?>
 </div>
 
-<div class="contact-right">
-  <script type="text/javascript">
-    function checkform (form) {
-      if (document.getElementById('name').value == "") { alert('Name required.'); document.getElementById('name').focus(); return false ; }
-      if (document.getElementById('email').value == "") { alert('Email required.'); document.getElementById('email').focus(); return false ; }
-      if (document.getElementById('phone').value == "") { alert('Phone required.'); document.getElementById('phone').focus(); return false ; }
-      if (document.getElementById('comment').value == "") { alert('Comment required.'); document.getElementById('comment').focus(); return false ; }
-      return true;
+<div style="clear: both;"></div><br>
+<br>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBg090YmprLM-yHNNxAwJEwaCn_4v67HnA"></script>
+<script>
+  function ViewLargerMap(VLMa, map) {
+    var VLMui = document.createElement('a');
+    VLMui.style.cursor = 'pointer';
+    VLMui.href = 'https://www.google.com/maps/place/Blackthorne+Partners/@43.0343136,-88.0837118,17z/data=!3m1!4b1!4m5!3m4!1s0x8804e3c000000001:0x994eadaba5ea4f34!8m2!3d43.0343136!4d-88.0815231';
+    VLMui.target = 'new';
+    VLMui.innerHTML = 'View larger map';
+    VLMui.style.marginLeft = '7px';
+    VLMa.appendChild(VLMui);
+  }
+
+  function initialize() {
+    var MyLatLng = new google.maps.LatLng(43.0343136,-88.0815118);
+    var mapCanvas = document.getElementById('map-canvas');
+    var mapOptions = {
+      center: MyLatLng,
+      zoom: 16,
+      disableDefaultUI: true,
+      zoomControl: true,
+      zoomControlOptions: {
+        style: google.maps.ZoomControlStyle.SMALL,
+        position: google.maps.ControlPosition.RIGHT_BOTTOM
+      },
+      mapTypeId: google.maps.MapTypeId.ROADMAP
     }
-  </script>
-  
-  <form action="contact-us.php" method="POST" onSubmit="return checkform(this)">
-    <div id="contactform">
-      <em style="font-size: 80%;">All fields are required.</em><br>
-      <br>
 
-      <label for="name">Name</label>
-      <input type="text" name="<?php echo md5("name" . $ip . $salt . $timestamp); ?>" id="name"><br>
-      <br>
-      
-      <label for="email">Email</label>
-      <input type="text" name="<?php echo md5("email" . $ip . $salt . $timestamp); ?>" id="email"><br>
-      <br>
-      
-      <label for="phone">Phone</label>
-      <input type="text" name="<?php echo md5("phone" . $ip . $salt . $timestamp); ?>" id="phone"><br>
-      <br>
-      
-      <label for="comment" style="width: auto;">Comment / Question</label>
-      <textarea name="comment" id="comment"></textarea><br>
-      <br>
-      
-      <input type="text" name="confirmation" style="display: none;"> <?php // Non-displaying field as a sort of invisible CAPTCHA. ?>
-      
-      <input type="hidden" name="ip" value="<?php echo $ip; ?>">
-      <input type="hidden" name="timestamp" value="<?php echo $timestamp; ?>">
-      
-      <input type="submit" name="submit" value="Submit" id="submit" style="margin-left: 30%;">
-    </div>
-  </form>
-</div>
+    var map = new google.maps.Map(mapCanvas, mapOptions)
+    map.set('styles', [
+      {
+        stylers: [
+          { "saturation": -100 },
+          { "visibility": "simplified" }
+        ]
+      }
+    ]);
 
-<div style="clear: both;"></div>
+    var marker = new google.maps.Marker({
+      position: MyLatLng,
+      map: map
+    });
 
-<?php } ?>
+    var infowindow = new google.maps.InfoWindow({
+      content: '<div id="content"><div id="bodyContent"><strong>Blackthorne Partners</strong><br>375 Bishops Way<br>Suite 222<br>Brookfield, WI 53005<br><a href="https://www.google.com/maps/place/Blackthorne+Partners/@43.0343136,-88.0837118,17z/data=!3m1!4b1!4m5!3m4!1s0x8804e3c000000001:0x994eadaba5ea4f34!8m2!3d43.0343136!4d-88.0815231" target="new">View larger map</a></div></div>'
+    });
+
+    google.maps.event.addListener(marker, 'click', function() {
+      infowindow.open(map,marker);
+    });
+
+    var vlmDiv = document.createElement('div');
+    var vlm = new ViewLargerMap(vlmDiv, map);
+    vlmDiv.index = 1;
+    map.controls[google.maps.ControlPosition.TOP_LEFT].push(vlmDiv);
+  }
+
+  google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+
+<div id="map-canvas"></div>
 
 <?php include "footer.php"; ?>

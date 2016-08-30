@@ -17,7 +17,7 @@ function email($address, $name="") {
     
     <meta name="description" content="">
     <meta name="keywords" content="">
-    <meta name="author" content="Remedi Creative">
+    <meta name="author" content="Foresite Group">
     
     <meta name="viewport" content="width=device-width">
     <link rel="stylesheet" href="inc/main.css">
@@ -26,7 +26,6 @@ function email($address, $name="") {
     <script type="text/javascript" src="inc/bootstrap-collapse.js"></script>
     <script type="text/javascript" src="inc/jquery.cycle2.min.js"></script>
     <script type="text/javascript" src="inc/jquery.cycle2.caption2.min.js"></script>
-    <script type="text/javascript" src="inc/XXXjquery.cycle2.carousel.min.js"></script>
     <script type="text/javascript">
       $(document).ready(function() {
         $("a[href^='http'], a[href$='.pdf']").not("[href*='" + window.location.host + "']").attr('target','_blank');
