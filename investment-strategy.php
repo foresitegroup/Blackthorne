@@ -8,8 +8,8 @@ include "header.php";
 
 Blackthorne Partners typically acquires, or invests in, companies that:<br>
 <ul>
-  <li>Generate approximately $1 million EBITDA</li>
-  <li>Have revenues of $4 million to $15 million</li>
+  <li>Generate a minimum of $1 million EBITDA</li>
+  <li>Have revenues of $5 million to $20 million</li>
   <li>Have ownership transitioning out of the business, or are in need of a cash infusion to make a leap forward</li>
   <li>Specialize in essential products or services, making the businesses less vulnerable to economic volatility</li>
   <li>Have a quality reputation in a stable industry</li>
@@ -33,6 +33,6 @@ Blackthorne Partners typically acquires, or invests in, companies that:<br>
 </ul>
 <br>
 
-<a href="pdf/Summary_Sheet_201506.pdf"><img src="images/summary-sheet.jpg" alt="Summary Sheet" style="vertical-align: middle;"> View the summary sheet</a>
+<a href="pdf/Summary_Sheet_201701.pdf"><img src="images/summary-sheet-201701.jpg" alt="Summary Sheet" style="vertical-align: middle;"> View the summary sheet</a>
 
 <?php include "footer.php"; ?>

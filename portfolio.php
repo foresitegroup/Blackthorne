@@ -6,14 +6,24 @@ include "header.php";
 
 <h1 style="margin-bottom: 0.8em;">Portfolio</h1>
 
-Blackthorne Partners will continue to build its portfolio of small private companies. Prospects typically have $1 million in EBITDA and $4 million to $15 million in revenues.<br>
+Blackthorne Partners will continue to build its portfolio of small private companies. Prospects typically have a minimum of $1 million in EBITDA and $5 million to $20 million in revenues.<br>
 <br>
 
 We are currently invested in the following businesses.<br>
 <br>
 
 <div class="port-img">
-  <a href="http://www.schaeferbrush.com"><img src="images/portfolio-schaefer.jpg" alt="Schaefer Brush Manufacturing"></a>
+  <a href="https://managecore.com"><img src="images/portfolio-magnacore.png" alt="Managecore"></a>
+</div>
+<div class="port-text">
+  <strong>Managecore's</strong> mission is to disrupt the SAP service industry &mdash; to put Clients goals first &mdash; exposing critical information, hiring the best talent available and utilizing modern toolsets to breed efficiency allowing everyone to focus on high value activities. We are successful when our Clients are successful.<br>
+  Visit the Managecore website: <a href="https://managecore.com">www.managecore.com</a>
+</div>
+<div style="clear: both;"></div><br>
+<br>
+
+<div class="port-img">
+  <a href="http://www.schaeferbrush.com"><img src="images/portfolio-schaefer-brush.png" alt="Schaefer Brush Manufacturing"></a>
 </div>
 <div class="port-text">
   <strong>Schaefer Brush Manufacturing, LLC</strong> of Waukesha, WI is one of the most diverse brush manufacturers in the world.  We have over 100 years of experience in developing, engineering and manufacturing products to serve a wide range of industries. Blackthorne Partners purchased the assets of Schaefer Brush in June 2015.<br>
@@ -42,7 +52,7 @@ We are currently invested in the following businesses.<br>
 <div style="clear: both;"></div><br>
 <br>
 
-<div class="port-img">
+<!-- <div class="port-img">
   <a href="http://www.groupbasis.com"><img src="images/portfolio-group-basis.png" alt="group:basis"></a>
 </div>
 <div class="port-text">
@@ -50,7 +60,7 @@ We are currently invested in the following businesses.<br>
   Visit the group:basis website: <a href="http://www.groupbasis.com">www.groupbasis.com</a>
 </div>
 <div style="clear: both;"></div><br>
-<br>
+<br> -->
 
 <div class="port-img">
   <a href="http://www.berlon.com"><img src="images/portfolio-berlon.jpg" alt="Berlon Industries"></a>
@@ -72,13 +82,13 @@ We are currently invested in the following businesses.<br>
 <div style="clear: both;"></div><br>
 <br>
 
-<div class="port-img">
+<!-- <div class="port-img">
   <a href="http://www.integratedmp.com"><img src="images/portfolio-integrated.jpg" alt="Integrated Medical Partners"></a>
 </div>
 <div class="port-text">
   <strong>Integrated Medical Partners</strong> owns a portfolio of healthcare IT service businesses. Experienced healthcare executives manage the firm. Blackthorne Partners invested in IMP in November 2009.<br>
   Visit the Integrated Medical Partners website: <a href="http://www.integratedmp.com">www.integratedmp.com</a>
 </div>
-<div style="clear: both;"></div>
+<div style="clear: both;"></div> -->
 
 <?php include "footer.php"; ?>
