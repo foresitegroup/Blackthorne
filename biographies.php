@@ -62,7 +62,7 @@ As president/CEO of Sun Cleaning Systems, he grew the company from $100,000 to $
 Prior to joining Blackthorne Partners, he served as president of Legacy Advisors LLC, a business turnaround consulting firm. Steve also served as executive vice president of finance and national accounts at St. Paul, MN-based Marsden Holdings LLC, a privately held security and facility services company with $210 million in revenue.<br>
 <br>
 
-As Founding Director and Chairman of Spring Bank of Brookfield, WI&mdash;a startup that opened in September 2008&mdash;his team raised $12.5 million in initial capital. The bank's assets have achieved impressive growth to $170 million since then.<br>
+As Founding Director and Chairman of Spring Bank of Brookfield, WI&mdash;a startup that opened in September 2008&mdash;his team raised $12.5 million in initial capital. The bank's assets have achieved impressive growth to $300 million since then.<br>
 <br>
 
 Steve is active in community causes, and serves on the boards of SHARP Literacy Inc. and Midwest Business Brokers &amp; Intermediaries.<br>
