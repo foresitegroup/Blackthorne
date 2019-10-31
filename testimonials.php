@@ -6,12 +6,7 @@ include "header.php";
 
 <h1 style="margin-bottom: 0.8em;">Testimonials</h1>
 
-"I was impressed with the business knowledge and resources Blackthorne Partners offered, and realized they had what it would take to take our family business to the next level. The Blackthorne team has a history of improving the profitability of companies and setting the right strategic course for continued growth. Bringing them on as majority owners was an easy transition."<br>
-<div style="padding-left: 40%; font-weight: bold;">&mdash; Danny Goeman, Pallet USA</div><br>
-
 <img src="images/testimonials.jpg" alt="" class="left">
-<br>
-
 "Our family spent 110 years developing and nurturing Schaefer Brush Manufacturing. So when it came time to sell the business, we wanted buyers who would respect that legacy and who would take care of our employees, who were like family to us. Blackthorne Partners offered us just that, along with the confidence that Schaefer Brush Manufacturing would continue to be a major international source of innovative brush solutions."<br>
 <div style="padding-left: 40%; font-weight: bold;">&mdash; Harold Schaefer, former owner, Schaefer Brush Manufacturing</div><br>
 <br>

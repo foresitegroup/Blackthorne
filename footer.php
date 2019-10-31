@@ -18,12 +18,10 @@
             <div class="morespace">
               <img src="images/logo-magnacore.png" alt="Magnacore">
               <img src="images/logo-schaefer-brush.png" alt="Schaefer Brush Manufacturing">
-              <img src="images/logo-hughes.png" alt="Hughes Equipment Company">
             </div>
             <div class="morespace">
               <img src="images/logo-design-specialties.png" alt="Design Specialties">
               <img src="images/logo-berlon.png" alt="Berlon Industries">
-              <img src="images/logo-pallet-usa.png" alt="Pallet USA">
             </div>
           </div>
         </a>
