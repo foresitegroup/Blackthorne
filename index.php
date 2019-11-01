@@ -19,9 +19,9 @@ include "header.php";
   <img src="images/slide-managecore.jpg"
        data-cycle-title="Focused on addressing the equity and liquidity needs of small businesses in the Upper Midwest"
        >
-  <img src="images/slide-schaefer-brush.jpg"
+  <!-- <img src="images/slide-schaefer-brush.jpg"
        data-cycle-title="Identifying small niche businesses that go unnoticed by many larger private equity firms"
-       >
+       > -->
   <!-- <img src="images/slide-schaefer2.jpg"
        data-cycle-title="Providing capital and strategic support to help the businesses achieve their full growth potential"
        > -->
