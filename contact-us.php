@@ -6,9 +6,9 @@ include "header.php";
 
 <div class="one-third">
   <strong>Blackthorne Partners</strong><br>
-  375 Bishops Way<br>
-  Suite 222<br>
-  Brookfield, WI 53005
+  514 Wells Street<br>
+  Suite 2B<br>
+  Delafield, WI 53018
 </div>
 
 <div class="one-third">
@@ -33,7 +33,7 @@ include "header.php";
   function ViewLargerMap(VLMa, map) {
     var VLMui = document.createElement('a');
     VLMui.style.cursor = 'pointer';
-    VLMui.href = 'https://www.google.com/maps/place/Blackthorne+Partners/@43.0343136,-88.0837118,17z/data=!3m1!4b1!4m5!3m4!1s0x8804e3c000000001:0x994eadaba5ea4f34!8m2!3d43.0343136!4d-88.0815231';
+    VLMui.href = 'https://www.google.com/maps/place/Blackthorne+Partners/@43.0595565,-88.4053932,15z/data=!4m5!3m4!1s0x0:0x994eadaba5ea4f34!8m2!3d43.0595565!4d-88.4053932';
     VLMui.target = 'new';
     VLMui.innerHTML = 'View larger map';
     VLMui.style.marginLeft = '7px';
@@ -41,7 +41,7 @@ include "header.php";
   }
 
   function initialize() {
-    var MyLatLng = new google.maps.LatLng(43.0343136,-88.0815118);
+    var MyLatLng = new google.maps.LatLng(43.0595565,-88.4053932);
     var mapCanvas = document.getElementById('map-canvas');
     var mapOptions = {
       center: MyLatLng,
@@ -71,7 +71,7 @@ include "header.php";
     });
 
     var infowindow = new google.maps.InfoWindow({
-      content: '<div id="content"><div id="bodyContent"><strong>Blackthorne Partners</strong><br>375 Bishops Way<br>Suite 222<br>Brookfield, WI 53005<br><a href="https://www.google.com/maps/place/Blackthorne+Partners/@43.0343136,-88.0837118,17z/data=!3m1!4b1!4m5!3m4!1s0x8804e3c000000001:0x994eadaba5ea4f34!8m2!3d43.0343136!4d-88.0815231" target="new">View larger map</a></div></div>'
+      content: '<div id="content"><div id="bodyContent"><strong>Blackthorne Partners</strong><br>514 Wells Street<br>Suite 2B<br>Delafield, WI 53018<br><a href="https://www.google.com/maps/place/Blackthorne+Partners/@43.0595565,-88.4053932,15z/data=!4m5!3m4!1s0x0:0x994eadaba5ea4f34!8m2!3d43.0595565!4d-88.4053932" target="new">View larger map</a></div></div>'
     });
 
     google.maps.event.addListener(marker, 'click', function() {
