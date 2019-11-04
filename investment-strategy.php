@@ -1,6 +1,6 @@
 <?php
 $PageTitle = "Investment Strategy";
-$Banner = "banner-investment-strategy.jpg";
+$Banner = "banner-investment-strategy.jpg?20191104";
 include "header.php";
 ?>
 
