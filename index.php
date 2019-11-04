@@ -16,7 +16,7 @@ include "header.php";
   <img src="images/slide-design-specialists.jpg"
        data-cycle-title="Enabling small businesses to produce the highest quality products in the market"
        >
-  <img src="images/slide-managecore.jpg"
+  <img src="images/slide-bolts.jpg"
        data-cycle-title="Focused on addressing the equity and liquidity needs of small businesses in the Upper Midwest"
        >
   <!-- <img src="images/slide-schaefer-brush.jpg"
