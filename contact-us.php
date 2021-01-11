@@ -14,14 +14,12 @@ include "header.php";
 <div class="one-third">
   <strong>John Syburg</strong><br>
   Managing Director<br>
-  262.786.5100<br>
   <?php email("john@blackthornepartners.com"); ?>
 </div>
 
 <div class="one-third">
   <strong>Steve Balistreri</strong><br>
   Managing Director<br>
-  262.786.4700<br>
   <?php email("steve@blackthornepartners.com"); ?>
 </div>
 

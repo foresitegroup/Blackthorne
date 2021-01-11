@@ -15,7 +15,6 @@ include "header.php";
 
   <div class="bio-icons">
     <a href="http://www.linkedin.com/in/johnsyburg"><img src="images/icon-linkedin.jpg" alt="LinkedIn"></a>
-    <a href="John-Syburg.vcf"><img src="images/icon-vcard.jpg" alt="vCard" style="margin-left: 5px;"></a>
   </div>
 </div>
 
@@ -47,7 +46,6 @@ John has a history of professional and personal engagement among his peers and i
 
   <div class="bio-icons">
     <a href="http://www.linkedin.com/pub/steve-balistreri/9/813/125"><img src="images/icon-linkedin.jpg" alt="LinkedIn"></a>
-    <a href="Steve-Balistreri.vcf"><img src="images/icon-vcard.jpg" alt="vCard" style="margin-left: 5px;"></a>
   </div>
 </div>
 
