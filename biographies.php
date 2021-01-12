@@ -45,7 +45,7 @@ John has a history of professional and personal engagement among his peers and i
   </div>
 
   <div class="bio-icons">
-    <a href="http://www.linkedin.com/pub/steve-balistreri/9/813/125"><img src="images/icon-linkedin.jpg" alt="LinkedIn"></a>
+    <!-- <a href="http://www.linkedin.com/pub/steve-balistreri/9/813/125"><img src="images/icon-linkedin.jpg" alt="LinkedIn"></a> -->
   </div>
 </div>
 
