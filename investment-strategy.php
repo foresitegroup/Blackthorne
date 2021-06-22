@@ -33,6 +33,6 @@ Blackthorne Partners typically acquires, or invests in, companies that:<br>
 </ul>
 <br>
 
-<a href="pdf/Summary_Sheet_202106.pdf"><img src="images/summary-sheet-201910.png" alt="Summary Sheet" style="vertical-align: middle;"> View the summary sheet</a>
+<a href="pdf/Summary_Sheet_202106.2.pdf"><img src="images/summary-sheet-201910.png" alt="Summary Sheet" style="vertical-align: middle;"> View the summary sheet</a>
 
 <?php include "footer.php"; ?>
