@@ -18,9 +18,9 @@
             <div class="morespace">
               <img src="images/logo-magnacore.png" alt="Magnacore">
               <img src="images/logo-schaefer-brush.png" alt="Schaefer Brush Manufacturing">
-            </div>
+            <!-- </div>
             <div class="morespace">
-              <img src="images/logo-design-specialties.png" alt="Design Specialties">
+              <img src="images/logo-design-specialties.png" alt="Design Specialties"> -->
               <img src="images/logo-berlon.png" alt="Berlon Industries">
             </div>
           </div>
