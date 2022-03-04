@@ -30,6 +30,7 @@
     
     <footer>
       &copy; <?php echo date("Y"); ?> Blackthorne Partners, Ltd. | All Rights Reserved
+      <a href="https://foresitegrp.com" style="float: right; color: #FFFFFF;">WEBSITE BY FORESITE</a>
     </footer>
     
   </body>
