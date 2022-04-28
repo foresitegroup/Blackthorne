@@ -4,7 +4,7 @@ $Banner = "banner-company-overview.jpg?20191104";
 include "header.php";
 ?>
 
-<img src="images/company-overview3.jpg" alt="" class="right">
+<img src="images/company-overview20220428.jpg" alt="" class="right">
 
 <h1>Company Overview</h1>
 <h2>A clear plan, properly executed</h2>
