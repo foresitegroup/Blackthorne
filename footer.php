@@ -16,7 +16,6 @@
         <a href="portfolio.php">
           <div class="footer-slide" data-cycle-timeout="3000" data-cycle-slides="> div" data-cycle-fx="scrollHorz">
             <div class="morespace">
-              <img src="images/logo-magnacore.png" alt="Magnacore">
               <img src="images/logo-schaefer-brush.png" alt="Schaefer Brush Manufacturing">
             <!-- </div>
             <div class="morespace">
