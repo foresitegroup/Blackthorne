@@ -31,8 +31,5 @@ Blackthorne Partners typically acquires, or invests in, companies that:<br>
   <li><strong>Light manufacturing.</strong> These companies typically fit our criteria of having a quality reputation in a stable industry. We also look for manufacturers with limited economic vulnerability.</li>
   <li><strong>Value-added distribution.</strong> Our business service successes can be leveraged in the distribution sector as well.</li>
 </ul>
-<br>
-
-<a href="pdf/Summary_Sheet_202106.2.pdf"><img src="images/summary-sheet-202204.png" alt="Summary Sheet" style="vertical-align: middle;"> View the summary sheet</a>
 
 <?php include "footer.php"; ?>
